@@ -1,6 +1,6 @@
 # Random Name Generator
 
-A Flutter app that generates names.
+A Flutter app integrated with Cloud Firestore that allows names to be voted on.
 
 ## Getting Started
 
